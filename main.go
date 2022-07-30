@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Printf("%v\n", modtest.Value())
+	fmt.Printf("%v nr\n", modtest.Value())
 }
